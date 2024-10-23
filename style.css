@@ -1,0 +1,30 @@
+.header {
+    background-color: cyan;
+}
+.ahm {
+    background-color: chartreuse;
+    color: blue;
+    width: 600px;
+    height: 30px;
+    margin: auto;
+}
+.six{
+    width: 200px;
+    height: 200px;
+    border:1px solid black;
+}
+.seven{
+    width: 200px;
+    height:200px;
+    border:1px solid black;
+}
+.Eight{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+.nine{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
